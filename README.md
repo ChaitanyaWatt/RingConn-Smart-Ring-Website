@@ -1,5 +1,10 @@
 **RingConn Website Design**
 
+**It can be accessed here**
+
+https://chaitanyawatt.github.io/RingConn-Smart-Ring-Website/
+
+
 **Overview**
 
 Welcome to the RingConn website design project! This repository contains the design files and code for the RingConn smart ring website. RingConn is a cutting-edge smart ring that combines style with advanced technology to offer seamless connectivity and functionality.
